@@ -1,0 +1,27 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "바뀐 타이틀",
+      "author": "바뀐작성자"
+    },
+    {
+      "id": "aeae"
+    },
+    {
+      "id": 2,
+      "title": "JSON서버에서 추가함.",
+      "author": "json"
+    },
+    {
+      "id": 2,
+      "title": "JSON서버에서 추가함.",
+      "author": "json"
+    },
+    {
+      "id": 2,
+      "title": "JSON서버에서 추가함.",
+      "author": "json"
+    }
+  ]
+}
